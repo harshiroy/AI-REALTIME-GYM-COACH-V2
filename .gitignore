@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database
+data.db
+Main App/data.db
+
+# Logs
+*.log
+
+# Models
+ml_models/pose_landmarker_full.task
