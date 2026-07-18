@@ -22,4 +22,3 @@ Main App/data.db
 *.log
 
 # Models
-ml_models/pose_landmarker_full.task
